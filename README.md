@@ -1,10 +1,11 @@
+
+<body>
 <style>
   body{
     background-color: lightblue;
   }
   
 </style>
-<body>
 ## Hi there 👋
 <h2>i am wesley</h2>
 <h3>I have knowledge in these languages</h3>
