@@ -1,3 +1,10 @@
+<style>
+  body{
+    background-color: lightblue;
+  }
+  
+</style>
+<body>
 ## Hi there 👋
 <h2>i am wesley</h2>
 <h3>I have knowledge in these languages</h3>
@@ -9,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-
+</body>
 
 
 
