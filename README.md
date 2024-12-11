@@ -1,6 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+  
+<meta charset="UTF-8">
+    
+  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+    background-color: lightblue;
+    }
+</style>
 
-
-## Hi there 👋
+<h2>Hi there 👋</h2>  
 <h2>i am wesley</h2>
 <h3>I have knowledge in these languages</h3>
 
