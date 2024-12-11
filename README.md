@@ -1,11 +1,5 @@
 
-<body>
-<style>
-  body{
-    background-color: lightblue;
-  }
-  
-</style>
+
 ## Hi there 👋
 <h2>i am wesley</h2>
 <h3>I have knowledge in these languages</h3>
@@ -19,7 +13,13 @@
 
 </body>
 
-
+<body>
+<style>
+  body{
+    background-color: lightblue;
+  }
+  
+</style>
 
 
 <!--
