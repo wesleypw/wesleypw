@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    
-  
-<meta charset="UTF-8">
-    
-  
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body {
-    background-color: lightblue;
-    }
-</style>
 
 <h2>Hi there 👋</h2>  
 <h2>i am wesley</h2>
@@ -24,10 +10,7 @@ body {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-
-
 <body>
-
 
 
 <!--
