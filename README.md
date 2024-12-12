@@ -1,6 +1,6 @@
 
-<h2>Hi there 👋</h2>  
-<h2>i am wesley</h2>
+<h2>Hi there 👋</h2> <h2>i am wesley</h2> 
+<h3>I have been studying these languages ​​since 2020</h3>
 <h3>I have knowledge in these languages</h3>
 </body>
 
