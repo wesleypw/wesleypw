@@ -1,6 +1,6 @@
 
 <h2>Hi there 👋</h2> <h2>i am wesley</h2> 
-<h3>I have been studying these languages ​​since 2020</h3>
+<h3>I have knowledge of these languages</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
