@@ -1,6 +1,7 @@
 
 <h2>Hi there 👋</h2> 
 <h2>i am wesley.</h2> 
+<hr>
 <h3>I have knowledge of these languages</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
