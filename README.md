@@ -12,8 +12,6 @@
 
 <hr>
 
-<h2>I want to learn these languages.</h2>
-django  c 
 
 
 <!--
